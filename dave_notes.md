@@ -6,4 +6,6 @@ sudo apt-get update
 sudo apt-get install libyaml-dev build-essential
 sudo gem install psych stringio io-console
 sudo gem install ruby-lsp-rails
+sudo apt-get install ruby-dev
+sudo gem install rubocop
 
