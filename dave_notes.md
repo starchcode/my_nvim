@@ -8,4 +8,4 @@ sudo gem install psych stringio io-console
 sudo gem install ruby-lsp-rails
 sudo apt-get install ruby-dev
 sudo gem install rubocop
-
+sudo apt-get install luarocks
