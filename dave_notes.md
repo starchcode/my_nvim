@@ -1,3 +1,5 @@
+# Ubuntu
+
 follow these steps to enable ruby formatting
 
 install these for Ubuntu system wide: 
@@ -9,3 +11,5 @@ sudo gem install ruby-lsp-rails
 sudo apt-get install ruby-dev
 sudo gem install rubocop
 sudo apt-get install luarocks
+
+log files are at ~/local/state/nvim/lsp.log
