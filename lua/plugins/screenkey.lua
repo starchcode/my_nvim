@@ -1,7 +1,7 @@
 return {
   "NStefan002/screenkey.nvim",
   lazy = false,
-  version = "*", -- or branch = "dev", to use the latest commit
+  version = "*", 
   config = function()
     require("screenkey").setup({
       win_opts = {
@@ -18,3 +18,5 @@ return {
     })
   end,
 }
+
+-- use commmand : "Screenkey toggle" 
