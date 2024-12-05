@@ -5,6 +5,7 @@ return {
   config = function()
     require("screenkey").setup({
       win_opts = {
+        title = "starchcode",
         anchor = "SE", -- North-East (top-right corner)
         -- uncomment below to move to top right, maybe do anchor "NE"
         -- row = 0,
