@@ -1,6 +1,4 @@
 return {
-  -- Other plugins...
-
   {
     "sindrets/diffview.nvim",
     dependencies = { "nvim-lua/plenary.nvim" }, -- Ensure plenary.nvim is included
